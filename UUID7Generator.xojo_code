@@ -10,7 +10,7 @@ Protected Class UUID7Generator
 
 	#tag Method, Flags = &h0
 		Shared Function Get() As String
-		  if instance = nil then instance = new UUIDGenerator
+		  if instance = nil then instance = new UUID7Generator
 		  Return instance.getNext
 		End Function
 	#tag EndMethod
