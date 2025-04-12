@@ -1,2 +1,2 @@
-# uuid7-gen
-Generate version 7 UUIDs in Xojo using a SQLite trigger.
+# UUIDv7 Generator
+Generate UUID version 7 in Xojo using an in-memory SQLite database trigger.
