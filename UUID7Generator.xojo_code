@@ -50,7 +50,7 @@ Protected Class UUID7Generator
 
 	#tag Note, Name = Source
 		
-		View modified from https://stackoverflow.com/a/61000724
+		View modified from https://stackoverflow.com/a/79315986
 	#tag EndNote
 
 
