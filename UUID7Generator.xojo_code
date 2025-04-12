@@ -48,6 +48,11 @@ Protected Class UUID7Generator
 		SOFTWARE.
 	#tag EndNote
 
+	#tag Note, Name = Source
+		
+		View modified from https://stackoverflow.com/a/61000724
+	#tag EndNote
+
 
 	#tag Property, Flags = &h21
 		Private db As SQLiteDatabase
